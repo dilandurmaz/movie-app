@@ -20,6 +20,8 @@ This project lists movies and allows users to navigate to the details page by cl
 2. Navigate to the root directory of the project.
 3. Add a `.env` file to the root directory with the following content:
 
+REACT_APP_API_URL = http://www.omdbapi.com
+REACT_APP_API_KEY = 1a9efbde
 
 - `REACT_APP_API_URL` is the endpoint from which movie data is fetched.
 - `REACT_APP_API_KEY` is the API key provided by the site to access this endpoint.
