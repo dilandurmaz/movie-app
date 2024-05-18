@@ -31,8 +31,7 @@ To run the project, follow these steps:
 
 1. Build the Docker image:
 
-docker build -t [project-name] .
-
+docker build -t [project-name] .  # The dot (.) here represents the build context directory.
 
 2. Run the Docker container: 
 
