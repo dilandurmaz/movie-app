@@ -1,6 +1,6 @@
 ## Movie Listing Project
 
-This project lists movies and allows users to navigate to the details page by clicking on the movie name in the table. It is built using React.js, SCSS, Redux Thunk, Material UI, and Docker.
+This project lists movies and allows users to navigate to the details page by clicking on the movie name in the table.You can search movies by year, title, and IMDb Id. It is built using React.js, SCSS, Redux Thunk, Material UI, and Docker.
 
 ### Directory Structure
 
